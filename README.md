@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**Byenna/Byenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">
+ <img src="https://github.com/teoabaza/teoabaza/blob/main/welcometogitbanner.PNG?raw=true">
+ <img src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif"  width="700">
+ </p>
+ 
+- 🔭 I’m currently working on ...<strong>starting a new challenge this week</strong>
+- 🌱 I’m currently learning <strong>PHP/OOP, Laravel</strong>
+- 👯 I’m looking to collaborate on <strong>sprint projects</strong> 
+- 🤔 I’m looking for help with <strong>everything that makes coding more fun</strong>
+- 💬 Ask me about <strong>anything</strong>
+- 📫 How to reach me: <strong>create a pull request on one of my repositories</strong>
+- ⚡ Fun fact: <strong>I dream of code</strong>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="git" width="100">
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="bootstrap" width="75">
+   <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" alt="laravel" width="75">
+   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html" width="75">
+   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css" width="75">
+   <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="php" width="75">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="75">
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="75">
+</p>
