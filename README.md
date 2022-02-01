@@ -2,8 +2,7 @@
 
  <p align="center">
  <img src="https://github.com/teoabaza/teoabaza/blob/main/welcometogitbanner.PNG?raw=true">
- <img src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif"  width="700">
- </p>
+
  
 - 🔭 I’m currently working on ...<strong>starting a new challenge this week</strong>
 - 🌱 I’m currently learning <strong>PHP/OOP, Laravel</strong>
