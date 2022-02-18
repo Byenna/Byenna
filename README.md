@@ -26,6 +26,6 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="javascript" width="75">
   <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" alt="vue" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="github" width="100">
- <img src="" alt="sql" width="100">
+ <img src="/sql_sticker.png" alt="sql" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="vsc" width="75">
 </p>
