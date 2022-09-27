@@ -5,8 +5,7 @@
 
  
 - 🔭 I’m currently working on ...<strong>starting a new challenge this week</strong>
-- 🌱 I’m currently learning <strong>PHP/OOP, Laravel</strong>
-- 👯 I’m looking to collaborate on <strong>sprint projects</strong> 
+- 🌱 I’m currently learning <strong>Tailwind,AlpineJs </strong>
 - 🤔 I’m looking for help with <strong>everything that makes coding more fun</strong>
 - 💬 Ask me about <strong>anything</strong>
 - 📫 How to reach me: <strong>create a pull request on one of my repositories</strong>
