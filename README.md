@@ -4,7 +4,7 @@
  <img src="https://github.com/teoabaza/teoabaza/blob/main/welcometogitbanner.PNG?raw=true">
 
  
-- 🔭 I’m currently working on ...<strong>starting a new adventure</strong>
+- 🔭 I’m currently working on ...<strong>starting a new adventure! </strong>
 - 🌱 I’m currently learning <strong>IT Infrastructure </strong>
 - 🤔 I’m looking for help with <strong>everything that makes coding more fun</strong>
 - 💬 Ask me about <strong>anything</strong>
