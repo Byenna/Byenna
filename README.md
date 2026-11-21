@@ -4,8 +4,8 @@
  <img src="https://github.com/teoabaza/teoabaza/blob/main/welcometogitbanner.PNG?raw=true">
 
  
-- 🔭 I’m currently working on ...<strong>becoming an it infrastructure engineer! </strong>
-- 🌱 I’m currently learning <strong>PYTHON🐍 </strong>
+- 🔭 I’m currently working on ...<strong>excel as an infrastructure engineer! </strong>
+- 🌱 I’m currently learning <strong>CCNA </strong>
 - 🤔 I’m looking for help with <strong>everything that makes coding more fun</strong>
 - 💬 Ask me about <strong>anything</strong>
 - 📫 How to reach me: <strong>create a pull request on one of my repositories</strong>
